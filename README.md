@@ -1,12 +1,6 @@
-<<<<<<< Updated upstream
 # AIRLINES PRICE ANALYTICS
 
 ## Introduction
-=======
-# 
-
-# INTRODUCTION
->>>>>>> Stashed changes
 
 In this project, I will work for a travel agency and aim to understand airline prices thoroughly to assist clients in finding the best deals. My goal is to analyze how airline prices fluctuate based on various factors. The main sections of this research include defining the questions, data preparation, data analysis, and conclusions.
 
