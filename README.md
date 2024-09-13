@@ -1,3 +1,5 @@
+![airplane](/img/background1.jpg)
+
 # AIRLINES PRICE ANALYTICS
 
 ## Introduction
@@ -5,6 +7,7 @@
 In this project, I will work for a travel agency and aim to understand airline prices thoroughly to assist clients in finding the best deals. My goal is to analyze how airline prices fluctuate based on various factors. The main sections of this research include defining the questions, data preparation, data analysis, and conclusions.
 
 The project aims to answer the following questions:
+
 - What is the average coach price, and is \$500 a reasonable price for a coach ticket?
 - How do flight hours affect coach ticket prices, specifically for an 8-hour flight?
 - What types of delays are most common, and how do they affect connecting flights?
@@ -13,13 +16,16 @@ The project aims to answer the following questions:
 **Data Sources:**
 The dataset `flight.csv` was provided by Codecademy.com.
 
+![dog-funny](/img/background2.jpg)
+
 ## Data
 
 This project uses a single dataset, a CSV file containing information about "My Favorite Airline." The data will be analyzed to address the research questions.
 
-*Note: The data used is inspired by real-world data but primarily fictional.*
+_Note: The data used is inspired by real-world data but primarily fictional._
 
 The dataset includes:
+
 - `miles`: miles traveled during the flight
 - `passengers`: number of passengers on the flight
 - `delay`: take-off delay in minutes
@@ -34,6 +40,7 @@ The dataset includes:
 - `redeye`: whether the flight is a redeye
 
 ## Analytics
+
 ### Coach Price Distribution
 
 The first question is, "What is the average coach price, and is \$500 a reasonable price for a coach ticket?" To answer this, we will create a box plot.
@@ -53,6 +60,7 @@ Next, we focus on visualizing coach ticket prices for 8-hour flights to understa
 #### Visualization and Analysis
 
 The box plot and histogram for 8-hour flights reveal:
+
 - **High Price:** \$580
 - **Low Price:** \$120
 - **Average Price:** \$410
